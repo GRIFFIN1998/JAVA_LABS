@@ -17,5 +17,7 @@ public class ExceptionTest {
         }catch(ExceptionA e){
             System.out.println(e.getMessage());
         }
+
+        
     }
 }
